@@ -1,2 +1,5 @@
 n=int(input())
-print("Hello\n"*n)
+if(n!=0):
+    print("Hello\n"*n)
+else:
+    print("")
