@@ -8,5 +8,5 @@ if(leap%4==0):
     else:
         print("yes")
 else:
-    print("No")
+    print("no")
     
